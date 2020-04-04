@@ -1,5 +1,9 @@
-Yii2-users
+![Logotype](/assets/logo_cms.svg)
+
+CMS Defina
 =======================
+...
+
 Module for management users and their rights with the support of registration via social services and assigned to each user more than one social service.
 
 Abilities
